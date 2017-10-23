@@ -14,8 +14,8 @@
         "items": [
           "Java",
           "Javascript",
-          "Kotlin",
           "Python",
+          "Kotlin",
           "Ruby"
         ]
       },
@@ -23,6 +23,7 @@
         "type": "Mobile Frameworks",
         "items": [
           "Android SDK",
+          "Android Wear",
           "Google Development Suite",
           "Butter Knife",
           "React",
@@ -33,11 +34,12 @@
       {
         "type": "Web Frameworks",
         "items": [
-          "Ajax",
           "Bootstrap",
           "Google Web Toolkit",
+          "Ajax",
+          "JQuery",
           "React",
-          "AngularJS"
+          "Flex"
         ]
       },
       {
@@ -60,10 +62,11 @@
       {
         "type": "Interests",
         "items": [
-          "Android Development",
+          "Mobile Development",
           "Machine Learning",
+          "Aritficial Intelligence",
           "Web Development",
-          "Business"
+          "Disruptive Innovation"
         ]
       }
     ]
@@ -71,8 +74,8 @@
   "github_projects": {
     "items": [
       {
-        "project_name": "Judge!",
-        "tagline": "(play.google.com/store/apps/details?id=com.app.android.judge)--(github.com/Jaren831/Judge)",
+        "project_name": "Jaren831/Judge",
+        "tagline": "[play.google.com/store/apps/details?id=com.app.android.judge](https://play.google.com/store/apps/details?id=com.app.android.judge)",
         "description": [
           "Android app, currently in closed alpha. Companion app for playing Magic: The Gathering. Widget functionality."
         ],
@@ -90,8 +93,7 @@
         }
       },
       {
-        "project_name": "Sunshine",
-        "tagline": "(github.com/Jaren831/SunshineWear)",
+        "project_name": "Jaren831/SunshineWear",
         "description": [
           "Android app, provides local weather information using OpenWeatherMap API. Provides local weather information. Android Wear functionality"
         ],
@@ -106,8 +108,7 @@
 
       },
       {
-        "project_name": "QuakeReport",
-        "tagline": "(github.com/Jaren831/QuakeReport)",
+        "project_name": "Jaren831/QuakeReport",
         "description": [
           "Android app, provides realtime information on the most recent earthquakes around the world. UI dependent on earthquake magnitude. "
         ],
@@ -117,11 +118,9 @@
             "USGS API"
           ]
         }
-
       },
       {
-        "project_name": "Stock Hawk",
-        "tagline": "(github.com/Jaren831/StockHawk)",
+        "project_name": "Jaren831/StockHawk",
         "description": [
           "Android app, Stock tracker. Uses Yahoo! Stock API to provide up to date stock pricing information. Configurable settingsand includes widget functionality."
         ],
@@ -160,14 +159,14 @@
         "from": "May 2017",
         "to": "Present",
         "details": [
-          "Currently taking application (Judge!) from concept to final production stages. In closed alpha testing beforewider Google Play Store release. A/B user testing and quickly adding additional features."
+          "Currently taking application (Judge!) from concept to final production stages. In closed alpha testing before wider Google Play Store release. A/B user testing and listening to feedback for additional features."
         ],
         "technology_used": {
           "tools": [
             "Java",
             "Glide",
             "Constraint Layouts",
-            "Widget View",
+            "Widget Views",
             "Google Firebase Realtime Database",
             "Google Analytics",
             "Google Firebase Authentication",
@@ -177,49 +176,32 @@
       },
       {
         "title": "Network Engineer",
-        "organisation": "Unied States Air Force - 60th Communications Squadron",
+        "organisation": "United States Air Force - 60th Communications Squadron",
         "location": "Travis Air Force Base, CA",
         "from": "December 2015",
         "to": "May 2017",
         "details": [
           "Leadership position. Manager of 3-member team, responsible for maintenance and installation of monitoring software and network equipment.",
           "Oversaw the implementation of software updates for network intrusion systems. Resulted in $10k annual savings for unit and increased security posture."
-
-        ],
-        "technology_used": {
-          "tools": [
-            "Cisco Networking Software",
-            "Cisco Network Devices",
-            "Networkng Protocols",
-            "Military encryption software and equipment"
-          ]
-        }
+        ]
       },
       {
         "title": "Network Engineer",
-        "organisation": "Unied States Air Force - 412th Communications Squadron",
+        "organisation": "United States Air Force - 412th Communications Squadron",
         "location": "Edwards Air Force Base, CA",
         "from": "December 2012",
         "to": "June 2014",
         "details": [
           "Member of 8-person team responsible for the maintenance and installation of hardened network security equipment andsoftware to enable secure communication and data transmission.",
           "Deployed over 100 Cisco routers and switches as part of $14 million network upgrade in under 3 months for use by 8,000 users."
-        ],
-        "technology_used": {
-          "tools": [
-            "Cisco Networking Software",
-            "Cisco Network Devices",
-            "Networkng Protocols",
-            "Military encryption software and equipment"
-          ]
-        }
+        ]
       }
 
     ]
   },
   "involvement": {
     "organizations": [
-      "Veteran, United States Air Force, May 2011 to May 2017",
+      "Airman, United States Air Force, May 2011 to May 2017",
       "Veterans Corner, San Francisco State University, Fall 2017 to Present",
       "Member, National Association of Black Engineers, Fall 2017 to Present",
       "Sexual Assault Response Coordinator, Travis Air Force Base, March 2016 to May 2017",
@@ -229,6 +211,7 @@
   },
   "achievements": {
     "items": [
+      "Awarded Lyft Self-Driving Car Nanodegree Scholarship, September 2017",
       "Appointed to United States Air Force Academy, July 2015",
       "Global War on Terror Service Medal, July 2012",
       "Airman Leadership Course Distinguished Graduate, June 2012",
@@ -237,8 +220,8 @@
   },
   "additional_info": {
     "items": [
-      "Languages: English (fluent), Arabic (proficient), French (Basic)",
-      "Interests: Fitness, Travel, Self Improvement, Cooking, Film."
+      "Languages: English (Fluent), Arabic (Proficient), French (Basic)",
+      "Interests: Fitness, Travel, Self Improvement, Cooking, Film"
     ]
   },
   "education": {
@@ -250,9 +233,21 @@
         "graduation_year": 2019
       },
       {
-        "degree": "Bachelor of Science, Tranferred to SFSU",
+        "degree": "Self-Driving Car Nanodegree",
+        "institution": "Udacity, Sponsored by Lyft",
+        "graduation_year": "Currently Enrolled"
+      },
+      {
+        "degree": "Full Stack Nanodegree",
+        "institution": "Udacity",
+        "graduation_year": "Currently Enrolled"
+      },
+
+      {
+        "degree": "Bachelor of Science",
         "major": "Computer Science",
-        "institution": "United States Air Force Academy"
+        "institution": "United States Air Force Academy",
+        "graduation_year": "Transfer to SFSU"
       },
       {
         "degree": "Android Developer Nanodegree",
@@ -288,4 +283,3 @@
     }
   ]
 }
-
