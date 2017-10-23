@@ -1,0 +1,291 @@
+{
+  "firstname": "Jaren",
+  "lastname": "Dominique Lynch",
+  "contact": {
+    "email": "jaren.d.lynch@gmail.com",
+    "phone": "(707) 812-2298",
+    "linkedin": "linkedin.com/in/jaren-lynch/",
+    "github": "github.com/Jaren831"
+  },
+  "skills": {
+    "details": [
+      {
+        "type": "Programming Languages",
+        "items": [
+          "Java",
+          "Javascript",
+          "Kotlin",
+          "Python",
+          "Ruby"
+        ]
+      },
+      {
+        "type": "Mobile Frameworks",
+        "items": [
+          "Android SDK",
+          "Google Development Suite",
+          "Butter Knife",
+          "React",
+          "AngularJS"
+        ]
+      },
+
+      {
+        "type": "Web Frameworks",
+        "items": [
+          "Ajax",
+          "Bootstrap",
+          "Google Web Toolkit",
+          "React",
+          "AngularJS"
+        ]
+      },
+      {
+        "type": "Databases",
+        "items": [
+          "MySQL",
+          "SQLite",
+          "Google Firebase Database"
+        ]
+      },
+      {
+        "type": "Tools",
+        "items": [
+          "Git",
+          "Android Studio",
+          "Gradle",
+          "Google Play Developer Console"
+        ]
+      },
+      {
+        "type": "Interests",
+        "items": [
+          "Android Development",
+          "Machine Learning",
+          "Web Development",
+          "Business"
+        ]
+      }
+    ]
+  },
+  "github_projects": {
+    "items": [
+      {
+        "project_name": "Judge!",
+        "tagline": "(play.google.com/store/apps/details?id=com.app.android.judge)--(github.com/Jaren831/Judge)",
+        "description": [
+          "Android app, currently in closed alpha. Companion app for playing Magic: The Gathering. Widget functionality."
+        ],
+        "technology_used": {
+          "tools": [
+            "Java",
+            "Glide",
+            "Constraint Layouts",
+            "Widget View",
+            "Google Firebase Realtime Database",
+            "Google Analytics",
+            "Google Firebase Authentication",
+            "Google Firebase Storage"
+          ]
+        }
+      },
+      {
+        "project_name": "Sunshine",
+        "tagline": "(github.com/Jaren831/SunshineWear)",
+        "description": [
+          "Android app, provides local weather information using OpenWeatherMap API. Provides local weather information. Android Wear functionality"
+        ],
+        "technology_used": {
+          "tools": [
+            "Java",
+            "Android Wear",
+            "Constraint Layouts",
+            "OpenWeatherAPI"
+          ]
+        }
+
+      },
+      {
+        "project_name": "QuakeReport",
+        "tagline": "(github.com/Jaren831/QuakeReport)",
+        "description": [
+          "Android app, provides realtime information on the most recent earthquakes around the world. UI dependent on earthquake magnitude. "
+        ],
+        "technology_used": {
+          "tools": [
+            "Java",
+            "USGS API"
+          ]
+        }
+
+      },
+      {
+        "project_name": "Stock Hawk",
+        "tagline": "(github.com/Jaren831/StockHawk)",
+        "description": [
+          "Android app, Stock tracker. Uses Yahoo! Stock API to provide up to date stock pricing information. Configurable settingsand includes widget functionality."
+        ],
+        "technology_used": {
+          "tools": [
+            "Java",
+            "OpenWeatherAPI",
+            "Widget View"
+          ]
+        }
+
+      }
+    ]
+  },
+  "other_projects": {
+    "items": [
+      {
+        "headline": "Designed a webpage that displays movie posters with clickable trailers. (github.com/Jaren831/Full-Stack-Movie-Trailer)",
+        "technology_used": {
+          "tools": [
+            "Python",
+            "JavaScript",
+            "HTML",
+            "CSS"
+          ]
+        }
+      }
+    ]
+  },
+  "work_experience": {
+    "items": [
+      {
+        "title": "Android Developer",
+        "organisation": "Independent",
+        "location": "San Francisco, CA",
+        "from": "May 2017",
+        "to": "Present",
+        "details": [
+          "Currently taking application (Judge!) from concept to final production stages. In closed alpha testing beforewider Google Play Store release. A/B user testing and quickly adding additional features."
+        ],
+        "technology_used": {
+          "tools": [
+            "Java",
+            "Glide",
+            "Constraint Layouts",
+            "Widget View",
+            "Google Firebase Realtime Database",
+            "Google Analytics",
+            "Google Firebase Authentication",
+            "Google Firebase Storage"
+          ]
+        }
+      },
+      {
+        "title": "Network Engineer",
+        "organisation": "Unied States Air Force - 60th Communications Squadron",
+        "location": "Travis Air Force Base, CA",
+        "from": "December 2015",
+        "to": "May 2017",
+        "details": [
+          "Leadership position. Manager of 3-member team, responsible for maintenance and installation of monitoring software and network equipment.",
+          "Oversaw the implementation of software updates for network intrusion systems. Resulted in $10k annual savings for unit and increased security posture."
+
+        ],
+        "technology_used": {
+          "tools": [
+            "Cisco Networking Software",
+            "Cisco Network Devices",
+            "Networkng Protocols",
+            "Military encryption software and equipment"
+          ]
+        }
+      },
+      {
+        "title": "Network Engineer",
+        "organisation": "Unied States Air Force - 412th Communications Squadron",
+        "location": "Edwards Air Force Base, CA",
+        "from": "December 2012",
+        "to": "June 2014",
+        "details": [
+          "Member of 8-person team responsible for the maintenance and installation of hardened network security equipment andsoftware to enable secure communication and data transmission.",
+          "Deployed over 100 Cisco routers and switches as part of $14 million network upgrade in under 3 months for use by 8,000 users."
+        ],
+        "technology_used": {
+          "tools": [
+            "Cisco Networking Software",
+            "Cisco Network Devices",
+            "Networkng Protocols",
+            "Military encryption software and equipment"
+          ]
+        }
+      }
+
+    ]
+  },
+  "involvement": {
+    "organizations": [
+      "Veteran, United States Air Force, May 2011 to May 2017",
+      "Veterans Corner, San Francisco State University, Fall 2017 to Present",
+      "Member, National Association of Black Engineers, Fall 2017 to Present",
+      "Sexual Assault Response Coordinator, Travis Air Force Base, March 2016 to May 2017",
+      "Cyber Warfare Club, United States Air Force Academy, August 2014 to December 2015",
+      "Men's Rugby, United States Air Force Academy, July 2014 to December 2015"
+    ]
+  },
+  "achievements": {
+    "items": [
+      "Appointed to United States Air Force Academy, July 2015",
+      "Global War on Terror Service Medal, July 2012",
+      "Airman Leadership Course Distinguished Graduate, June 2012",
+      "National Defense Service Medal, July 2011"
+    ]
+  },
+  "additional_info": {
+    "items": [
+      "Languages: English (fluent), Arabic (proficient), French (Basic)",
+      "Interests: Fitness, Travel, Self Improvement, Cooking, Film."
+    ]
+  },
+  "education": {
+    "schools": [
+      {
+        "degree": "Bachelor of Science",
+        "major": "Computer Science",
+        "institution": "San Francisco State University",
+        "graduation_year": 2019
+      },
+      {
+        "degree": "Bachelor of Science, Tranferred to SFSU",
+        "major": "Computer Science",
+        "institution": "United States Air Force Academy"
+      },
+      {
+        "degree": "Android Developer Nanodegree",
+        "institution": "Udacity",
+        "graduation_year": 2017
+      },
+      {
+        "degree": "Android Basics Nanodegree",
+        "institution": "Udacity",
+        "graduation_year": 2016
+      },
+      {
+        "degree": "Associate of Science",
+        "major": "Computer Science",
+        "institution": "Community College of the Air Force",
+        "graduation_year": 2015
+      }
+
+    ]
+  },
+  "undergrad_courses": [
+    {
+      "name": "Data Structures",
+      "url": "https://cs.sfsu.edu/sites/default/files/syllabi/220Desc.pdf"
+    },
+    {
+      "name": "Discrete Mathematics",
+      "url": "https://cs.sfsu.edu/sites/default/files/syllabi/230Desc_20150201.pdf"
+    },
+    {
+      "name": "Probability and Statistics with Computing",
+      "url": "http://math.sfsu.edu/324.php"
+    }
+  ]
+}
+
